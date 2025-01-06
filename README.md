@@ -5,5 +5,4 @@ Features include basic arithmetic operations: addition, subtraction, multiplicat
 - HTML5  
 - CSS3  
 - JavaScript
-![Screenshot]
 
