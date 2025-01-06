@@ -1,4 +1,4 @@
-Calculator-app
+# Calculator-app
 A simple calculator built using HTML, CSS and JavaScript.
 Features include basic arithmetic operations: addition, subtraction, multiplication, and division.
 Technologies Used:
